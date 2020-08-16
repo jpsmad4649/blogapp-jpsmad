@@ -1,0 +1,17 @@
+Last login: Mon Aug 10 10:29:02 on ttys000
+nvm is not compatible with the npm config "prefix" option: currently set to "/usr/local/Cellar/nvm/0.35.3/versions/node/v14.3.0"
+Run `nvm use --delete-prefix v14.3.0 --silent` to unset it.
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) JPS:~ ooshitajunki$ rbenv -v
+rbenv 1.1.2
+(base) JPS:~ ooshitajunki$ which ruby
+/usr/bin/ruby
+(base) JPS:~ ooshitajunki$ node -v
+-bash: node: command not found
+(base) JPS:~ ooshitajunki$ which node
+(base) JPS:~ ooshitajunki$ npm -v
+-bash: npm: command not found
+(base) JPS:~ ooshitajunki$
